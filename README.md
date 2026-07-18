@@ -1,4 +1,4 @@
-```markdown
+
 # ✨ Joy: Your AI Learning Buddy! ✨
 
 ## Project Overview
@@ -61,7 +61,7 @@ except Exception:
 public_url = ngrok.connect(8501)
 print("\n👉 SUBMIT THIS PUBLIC LINK TO YOUR CAPSTONE FORM:")
 print(public_url)
-```
+
 
 Once all steps are executed, the public URL printed in the last cell will allow you to interact with Joy: Your AI Learning Buddy in your browser.
 
